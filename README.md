@@ -38,9 +38,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
+![](https://i.imgur.com/W1RiNbw.gif)
 
-https://ezgif.com/optimize/ezgif-1-973874c072.gif
-https://imgflip.com/gif/6b42yn
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
