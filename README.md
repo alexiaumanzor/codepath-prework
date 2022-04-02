@@ -1,80 +1,22 @@
-# Pre-work - *Memory Game*
+# Hello Website (blank)
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
 
-Submitted by: Alexia Umanzor 
+## What's in this project?
 
-Time spent: 5 hours spent in total
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-Link to project: https://glitch.com/edit/#!/light-and-sound-game1
-https://light-and-sound-game1.glitch.me
+← `index.html`: This is the main HTML page for your site.
 
-## Required Functionality
+← `style.css`: CSS files add styling rules to your content.
 
-The following **required** functionality is complete:
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
 
-* [#] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [#] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [#] Game buttons each light up and play a sound when clicked. 
-* [#] Computer plays back sequence of clues including sound and visual cue for each button
-* [#] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [#] User wins the game after guessing a complete pattern
-* [#] User loses the game after an incorrect guess
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-The following **optional** features are implemented:
+## You built this with Glitch!
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
-* [ ] Computer picks a different pattern each time the game is played
-* [ ] Player only loses after 3 mistakes (instead of on the first mistake)
-* [ ] Game button appearance change goes beyond color (e.g. add an image)
-* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
-
-## Video Walkthrough (GIF)
-![](https://i.imgur.com/W1RiNbw.gif)
-
-
-## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://www.thoughtco.com/add-attribute-to-html-tag-3466575
-https://glitch.happyfox.com/kb/article/27-exporting-projects-to-github/
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge that I encountered in creating the submission for the project is trying to figure out how to use Github for the first time. As a beginner Github user, I found the site to be quite confusing at first before it was helpful. I struggled with uploading my glitch project to my repository, and figuring out what I did incorrectly was time consuming. Even when it seemed I successfully uploaded and pushed all required files onto my prework repository, my work was still not showing up like it was supposed to. I was able to overcome this by carefully rewatching the videos provided by Codepath as a guide for repository set-up and file publishing, and I also looked up an additional resource for help.
-Additionally, I struggled with converting a 30 second video displaying all of the features/code on my project into a GIF that would fit in all parts of my video. At first, I struggled to find a website that would convert my video for free, as most sites would ask for a membership. I was able to figure it out by also rewatching the videos provided by Codepath, as well as searching Google for any sites that would let me convert a 30 second video to a GIF. I realized that my GIF did not need to show up in my code editor, rather I had to have the correct line of code that will output a GIF when viewing the project on Github
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-After completing my submission, I am very interested in how HTML, CSS and Javascript can work together to make an interactive webpage. A question I have is how much of web site creation/development can already be found online, and what tools/techniques can be used to make a website unique from others? Additionally, how much more difficult is it to build a webpage without using helper sites like glitch, and is web development from scratch still common? I also noticed that this submission included Object Oriented Programming and was curious of any tips for keeping track of the many variables and attributes across different langauges and workspace tabs, especially if one is working on a large project.
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-If I had a few more hours to work on this project, I would like to add more random variation in the pattern played for the user to play back. This way, every game would start and end in a unique way and would make for a more entertaining experience rather than repeating the same sequence of tones every game run. Additionally, I would like to implement game levels by adding more tones and buttons as the game progresses, and increasing complexity and speed of tone patterns as players level up. Lastly, I would also like to add more game options (derived from the original Light and Memory Game), instead of just the Light and Memory Game being the only game option to play. 
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
-
-
-## License
-
-    Copyright Alexia Umanzor 
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
