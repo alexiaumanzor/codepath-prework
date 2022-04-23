@@ -45,6 +45,7 @@ The following **additional** features are implemented:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 https://www.thoughtco.com/add-attribute-to-html-tag-3466575
 https://glitch.happyfox.com/kb/article/27-exporting-projects-to-github/
+https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 A challenge that I encountered in creating the submission for the project is trying to figure out how to use Github for the first time. As a beginner Github user, I found the site to be quite confusing at first before it was helpful. I struggled with uploading my glitch project to my repository, and figuring out what I did incorrectly was time consuming. Even when it seemed I successfully uploaded and pushed all required files onto my prework repository, my work was still not showing up like it was supposed to. I was able to overcome this by carefully rewatching the videos provided by Codepath as a guide for repository set-up and file publishing, and I also looked up an additional resource for help.
