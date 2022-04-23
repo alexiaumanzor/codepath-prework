@@ -40,8 +40,8 @@ function secretRandomNumber(){
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
+  1: 162,
+  2: 275,
   3: 392,
   4: 466.2,
   5: 557.3,
