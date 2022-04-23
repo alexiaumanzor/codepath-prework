@@ -5,7 +5,7 @@ const nextClueWaitTime = 1000; //how long to wait before starting playback of th
 
 
 //Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4]
+var pattern = secretRandomNumber();
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
@@ -15,11 +15,13 @@ var guessCounter = 0;
 
 function startGame(){
   //initialize game variables
+  secretRandomNumber();
   progress = 0;
   gamePlaying = true;
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
   playClueSequence();
+  secretRandomNumber();
 }
 
 function stopGame(){
@@ -28,12 +30,22 @@ function stopGame(){
   document.getElementById("stopBtn").classList.add("hidden");
 }
 
+function secretRandomNumber(){
+  pattern = [];
+  for(var i= 0; i < 12; i++){
+   pattern.push(Math.floor(Math.random() * (6 - 1) + 1))
+  }
+  return pattern;
+}
+
 // Sound Synthesis Functions
 const freqMap = {
   1: 261.6,
   2: 329.6,
   3: 392,
-  4: 466.2
+  4: 466.2,
+  5: 557.3,
+  6: 635.9
 }
 
 function playTone(btn,len){ 
